@@ -5,3 +5,7 @@ This is just being made because I can :)
 # Server: 
 [The Server Repo](https://github.com/snehinsen/WWSS-Server/)
 # UI
+[The UI Repo](https://github.com/snehinsen/WWSS-UI/)
+
+
+*This perticular repo is just for the README and LICENSE because github didn't like me uploading the front and backend in one repo*
