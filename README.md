@@ -8,6 +8,7 @@ This is just being made because I can :)
 
 ## Server: 
 **Requires permision and to be added to the repo as a contributor**
+
 [The Server Repo](https://github.com/snehinsen/WWSS-Server/)
 ## UI
 [The UI Repo](https://github.com/snehinsen/WWSS-UI/)
